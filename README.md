@@ -2,7 +2,7 @@
 
 ## Description
 There are two game modes in this project, classical tictactoe and numerical tictactoe. It is played on a 3 by 3 grid. There are two players. The first player to get 3 of their symbols/numbers adding up to 15 on the board in a row is the winner. A tie happens when the board is full and no one got 3 in a row/numbers adding up to 15.
-<br/><br/>A user can choose to run the console version or a GUI version of the game. Implemented many different object oriented practices like polymorphism, inheritence, abstraction to reduce code duplication so the same classes can be used for different games as shown below.
+<br/><br/>A user can choose to run the console version or a GUI version of the game. Implemented many different object oriented practices like polymorphism, inheritence, abstraction to reduce code duplication so the same classes can be used for different games.
 ## Usage
 
 The program should be compiled using Gradle.
