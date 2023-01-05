@@ -27,7 +27,7 @@ java -jar build/libs/A3.jar
 
 ## Expected Output
 #### GUI version:
-<img width="543" alt="image" src="https://user-images.githubusercontent.com/86804008/210684098-06c7cfa1-0548-432a-959d-8a6660de8af8.png">
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/86804008/210684718-99e1cae9-c94a-45a3-a019-ab7c854af053.png">
 
 #### Console Version:
 ```
