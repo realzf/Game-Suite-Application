@@ -24,7 +24,7 @@ java -cp build/classes/java/main tictactoe.TextUI
 ```
 java -jar build/libs/A3.jar
 ```
-Or alternatively you can use this file to run the GUI application: [OOPfied TTT.zip](https://github.com/realzf/OOPfied-TicTacToe/files/10350025/OOPfied.TTT.zip)
+Or alternatively you can use the jar file in this folder to run the GUI application: [OOPfied TTT.zip](https://github.com/realzf/OOPfied-TicTacToe/files/10350025/OOPfied.TTT.zip)
 
 ## Expected Output
 #### GUI version:
