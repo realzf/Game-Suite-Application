@@ -1,6 +1,5 @@
 /**
- * Name: Zaeem Farhan
- * Assignment: CIS*2430 A3
+ * Name: Zaeem 
  * Date: Nov 26 2022
  * Description: This class is an abstract class responsible for determining game result
  */
