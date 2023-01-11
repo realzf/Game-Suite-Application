@@ -1,6 +1,4 @@
 /**
- * Name: Zaeem 
- * Date: Nov 26 2022
  * Description: This class is responsible for calling necessary classes to run sepcific game
  */
 package tictactoe;
