@@ -1,6 +1,4 @@
 /**
- * Name: Zaeem 
- * Date: Nov 26 2022
  * Description: This class has the main method used to run console version of TTT
  */
 package tictactoe;
