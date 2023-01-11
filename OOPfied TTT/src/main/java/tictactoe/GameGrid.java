@@ -1,6 +1,4 @@
 /**
- * Name: Zaeem 
- * Date: Nov 26 2022
  * Description: This class is an abstract class responsible for determining game result
  */
 package tictactoe;
