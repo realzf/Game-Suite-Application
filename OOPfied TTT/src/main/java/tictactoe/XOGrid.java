@@ -1,6 +1,4 @@
 /**
- * Name: Zaeem 
- * Date: Nov 26 2022
  * Description: This class is responsible for determining classical TTT game result
  */
 package tictactoe;
