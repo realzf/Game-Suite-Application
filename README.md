@@ -36,5 +36,3 @@ Turn: Player 1 (X)
 down? (0 to quit)
 ```
 
-## Author Information
-Zaeem Farhan - *Primary Creator*
