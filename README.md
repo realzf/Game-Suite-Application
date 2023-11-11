@@ -1,4 +1,4 @@
-# OOPfied Tic-Tac-Toe
+# Game Suite Application
 
 ## Description
 There are two game modes in this project, classical tictactoe and numerical tictactoe. It is played on a 3 by 3 grid. There are two players. The first player to get 3 of their symbols/numbers adding up to 15 on the board in a row is the winner. A tie happens when the board is full and no one got 3 in a row/numbers adding up to 15.
